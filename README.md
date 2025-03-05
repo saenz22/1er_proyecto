@@ -4,9 +4,7 @@ Soy estudiante y estos fueron mis primeros pasos en Git.
 
 MENSAJE PARA HACER PUSH
 
-p
-
-    ublic  class  App {
+    Public  class  App {
     
     public  static  void  main(String[] args) throws  Exception {
     
